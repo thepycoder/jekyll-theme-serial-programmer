@@ -1,23 +1,21 @@
 name: Victor Sonck
-dp: https://avatars2.githubusercontent.com/u/36638057?s=460&u=0cbe4fd6b5a3655d91b3eb86db834d0829a0c086&v=4
+dp: https://yt3.ggpht.com/ytc/AKedOLREJAdX0LREsvtTQEfYBzYK44E8YVSW1fnRs0YxcA=s900-c-k-c0x00ffffff-no-rj
 description: "
   <p>
-    Developed by Sharad Raj who lives in India building useful things for the world.
+    A blog about various tech things.
   </p>
   <br/>
   <p>
-    You should follow him on <a href='https://github.com/sharadcodes' target='_blank'>Github</a>
+    Maybe some rants
   </P>
 "
-email: dev_sharad@outlook.com
+email: victor@projectwhy.be
 contact:
   - title: linkedin
-    url: https://www.linkedin.com/in/srsmaurya
+    url: https://www.linkedin.com/in/victor-sonck
   - title: github
-    url: https://github.com/sharadcodes
+    url: https://github.com/thepycoder
   - title: twitter
-    url: https://twitter.com/sharadcodes
-  - title: dev
-    url: https://dev.to/sharadcodes
+    url: https://twitter.com/VictorSonck
   - title: email
-    url: mailto:dev_sharad@outlook.com
+    url: mailto:victor@projectwhy.be
